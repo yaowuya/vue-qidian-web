@@ -1,0 +1,80 @@
+@font-face {
+    font-family: 'my-icon';
+    src: url('./iconfont.ttf') format('truetype');
+}
+
+.my-icon {
+    font-family: 'my-icon' !important;
+    position: relative;
+    font: 0.37333rem/1 "my-icon";
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+
+.my-icon-cc-top:before {
+    content: "\e6a9";
+}
+
+.my-icon-custom-search:before {
+    content: "\e625";
+}
+
+.my-icon-searchicon:before {
+    content: "\e615";
+}
+
+.my-icon-ico-left-arrow:before {
+    content: "\e66f";
+}
+
+.my-icon-paixing:before {
+    content: "\e66e";
+}
+
+.my-icon-top:before {
+    content: "\e60c";
+}
+
+.my-icon-fenlei:before {
+    content: "\e638";
+}
+
+.my-icon-dayuhao:before {
+    content: "\e626";
+}
+
+.my-icon-xiaoyuhao:before {
+    content: "\e628";
+}
+
+.my-icon-xiaoyufuhao:before {
+    content: "\e62c";
+}
+
+.my-icon-x:before {
+    content: "\e73e";
+}
+
+.my-icon-shujia:before {
+    content: "\e610";
+}
+
+.my-icon-X:before {
+    content: "\e673";
+}
+
+.my-icon-shouye:before {
+    content: "\e651";
+}
+
+.my-icon-read:before {
+    content: "\e748";
+}
+
+.my-icon-zhang:before {
+    content: "\e64e";
+}
+
