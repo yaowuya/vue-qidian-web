@@ -115,16 +115,16 @@ http {
 ```
 ##部分截图
 #### 书架
-![我的书架](https://github.com/yaowuya/vue-qidian-web/blob/master/screenshorts/shelf.png)
+![我的书架](https://github.com/yaowuya/vue-qidian-web/blob/master/gitimg/shelf.png)
 #### 书籍详情
-![书籍详情](https://github.com/yaowuya/vue-qidian-web/blob/master/screenshorts/book.png)
+![书籍详情](https://github.com/yaowuya/vue-qidian-web/blob/master/gitimg/book.png)
 #### 阅读
-![阅读](https://github.com/yaowuya/vue-qidian-web/blob/master/screenshorts/read.png)
+![阅读](https://github.com/yaowuya/vue-qidian-web/blob/master/gitimg/read.png)
 #### 首页
-![首页](https://github.com/yaowuya/vue-qidian-web/blob/master/screenshorts/home.png)
+![首页](https://github.com/yaowuya/vue-qidian-web/blob/master/gitimg/home.png)
 #### 排行
-![排行](https://github.com/yaowuya/vue-qidian-web/blob/master/screenshorts/rank.png)
+![排行](https://github.com/yaowuya/vue-qidian-web/blob/master/gitimg/rank.png)
 #### 搜索
-![搜索](https://github.com/yaowuya/vue-qidian-web/blob/master/screenshorts/search.png)
+![搜索](https://github.com/yaowuya/vue-qidian-web/blob/master/gitimg/search.png)
 #### 分类
-![分类](https://github.com/yaowuya/vue-qidian-web/blob/master/screenshorts/category.png)
+![分类](https://github.com/yaowuya/vue-qidian-web/blob/master/gitimg/category.png)
